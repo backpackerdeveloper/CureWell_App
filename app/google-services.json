@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036991445971",
+    "project_id": "curewell-4fcb2",
+    "storage_bucket": "curewell-4fcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036991445971:android:f4697619ef987efc2ccd26",
+        "android_client_info": {
+          "package_name": "com.shubhamtripz.curewell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036991445971-p25rtslkkgptlpe9fip6dpfoatn5eu8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnaaZXutp2pVUCCnJ-KRlUsx8cL5XXkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036991445971-p25rtslkkgptlpe9fip6dpfoatn5eu8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
